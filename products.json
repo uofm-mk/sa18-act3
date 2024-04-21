@@ -1,0 +1,29 @@
+[
+    {
+        "model": "myapp.product",
+        "pk": 1,
+        "fields": {
+          "name": "Mug",
+          "price": "10.99",
+          "description": "Ceramic mug"
+        }
+      },
+      {
+        "model": "myapp.product",
+        "pk": 2,
+        "fields": {
+          "name": "Thermos",
+          "price": "25.50",
+          "description": "Stainless steel thermos"
+        }
+      },
+      {
+        "model": "myapp.product",
+        "pk": 3,
+        "fields": {
+          "name": "Plate",
+          "price": "5.99",
+          "description": "Plastic plate"
+        }
+      }
+]
